@@ -1,0 +1,12 @@
+.content {
+  padding: 60px 10%;
+  text-align: left;
+}
+
+.input-row{
+	padding-top:30px
+}
+input[type="text"] {
+    width: 100%;
+    padding:1%;
+}
